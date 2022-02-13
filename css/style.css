@@ -1,0 +1,71 @@
+@import "null.css";
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&family=Comforter&family=Kolker+Brush&family=Lato:wght@400;700;900&family=Marck+Script&family=Monoton&family=Pacifico&family=Press+Start+2P&family=Russo+One&family=Syne+Tactile&family=Underdog&display=swap');
+.wrapper{
+    
+    overflow: hidden;
+}
+body{
+    background-image:linear-gradient(90deg,#d3d704,#52b25c,#087f71); 
+    
+    
+}   
+h1{
+    font-family: 'Pacifico', cursive;
+    font-size: 46px;
+    margin: 20px 200px 20px 200px;
+    color: cadetblue;
+    border: 10px solid green;
+    box-shadow: 10px 10px 10px 30px wheat;
+    background-color: aquamarine;
+}
+#p1{
+    font-family: 'Underdog', cursive;
+    font-size: 18px;
+    background-image: url("../img/92ac99df536a443d36b53806b013ee6e489538af.webp");
+    margin: 70px 100px 20px 720px;
+    padding: 20px;
+    box-shadow: 50px 10px 50px coral;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: cover;
+    
+    
+}
+#p2{
+    font-family: 'Underdog', cursive;
+    font-size: 18px;
+    background-image: url("../img/Article_157254_860_575.jpg");
+    background-attachment: fixed;
+    padding: 20px;
+    margin: 100px 600px 30px 100px;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-size: contain;
+    box-shadow: 50px 10px 50px coral;
+}
+#p3{
+    font-family: 'Underdog', cursive;
+    font-size: 18px;
+    color:whitesmoke;
+    background-repeat: no-repeat;
+    background-position: right, left, 50%;
+    background-size: 50px, auto auto, cover;
+    background-image: url("../img/123.jpeg"),url("../img/images.jpeg"),url("../img/32dbdb7993e08d62b3765b1998149a839c67d9ba.webp");
+    margin: 50px 100px 20px 200px;
+    padding: 30px;
+    border-radius: 5%;
+
+}  
+#p4{
+    font-family: 'Underdog', cursive;
+    font-size: 18px;
+    background-image:url("../img/3c26cruze-sedan.png.webp");
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    background-size: contain;
+    margin: 0px 100px 20px 100px;
+    padding: 50px 5px 20px 500px;
+    
+}
+   
+
